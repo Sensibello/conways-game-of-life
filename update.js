@@ -1,4 +1,4 @@
-// after messing around with scripts.js, the content can be cleaned up and written as such 
+// after messing around with scripts.js, the content can be cleaned up and written as such, courtesy of Lance's tutorial.  
 
 var gridHeight = 400;
 var gridWidth = 400;
